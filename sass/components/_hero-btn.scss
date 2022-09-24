@@ -1,0 +1,24 @@
+/* HERO BUTTON */
+
+.hero-button {
+  width: 216px;
+  height: 50px;
+  border-radius: 4px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  padding: 10px 31px;
+  margin-right: auto;
+  margin-left: auto;
+
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: calc(30 / 16);
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: var(--cl-white);
+  background-color: var(--cl-mark);
+  border: none;
+}

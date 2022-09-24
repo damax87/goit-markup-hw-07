@@ -1,3 +1,4 @@
+
 :root {
   --main-cl: #212121;
   --main-cl-grey: #757575;
@@ -205,9 +206,9 @@ margin-left: 50px;
   color: var(--cl-white);
   background-color: var(--cl-mark);
   border: none;
-
+}
 /* BACKDROP*/
-  }
+  
   .backdrop {
     position: fixed;
     top: 0;
@@ -951,3 +952,4 @@ margin-left: 50px;
     color: var(--cl-white);
   
   }
+ 
